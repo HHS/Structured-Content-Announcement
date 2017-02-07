@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Release 5B content types feature.
+ */
+
+include_once 'release_5b_content_types.features.inc';
