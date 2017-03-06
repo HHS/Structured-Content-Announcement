@@ -6,12 +6,10 @@ The Announcement content type matches the News Release content type with the exc
 <h2>Content Type Details</h2>
 Contained in the /documentation folder are the content model for the Announcement content type (HHS-Structured-Content-Type-Announcement.xlsx) which includes the Drupal field names used and their matching schema.org metadata name; and a Word Template (HHS-Structured-Content-Type-Template-Announcement.docx) which is a guidance document we provide to content owners to complete whenever they want an Announcement to be created. The Template includes all of the fields that must be completed in order to create the Announcement, as well as a taxonomy list to reference as they fill in those fields that require a taxonomy term.
 
-<h2>Drupal Feature Module</h2>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed risus ipsum, tristique id fringilla vitae, egestas vitae nulla. Donec facilisis mattis ante, non posuere sem consectetur eget. Duis eu lectus sit amet augue pulvinar ornare. Mauris porta elit mi, nec fermentum lectus mollis eget. Sed eu nunc accumsan, finibus est et, porta urna.
+<h2>Drupal Features Module</h2>
+This module is generated using Features module. It packages fields and variables together into one module, which can be installed like any other Drupal module.
 
 <h3>Dependencies</h3>
-List dependencies on other Drupal modules, libraries, etc
-
 - Chaos tools	
 - Date	
 - Display Suite	
